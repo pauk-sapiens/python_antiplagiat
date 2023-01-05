@@ -1,2 +1,3 @@
 # python_antiplagiat
 python antiplagiat some sort...
+I've chosen easiest way to solve this task(think so) and script won't work 100% correct at this case. In fact my algo would way better if it checked not 2 python codes, but 2 texts about history for example.
